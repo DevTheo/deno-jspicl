@@ -1,4 +1,4 @@
-import createTranspiler from "trastpiler";
+import createTranspiler from "https://esm.sh/trastpiler@1.0.2";
 import * as globalMappers from "./syntax-tree/index.ts";
 
 export function createJspiclTranspiler(
