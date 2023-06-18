@@ -1,0 +1,1 @@
+*This is essentially a Deno packagable fork of https://github.com/jspicl/jspicl*
