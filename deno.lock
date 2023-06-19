@@ -83,6 +83,10 @@
     "https://raw.githubusercontent.com/DevTheo/deno-esprima/v4.0.1pre2/src/syntax.ts": "ff0c5b2c71ee35cb35c1a9d5bb112862e43d199b286664ce0c7ee6f026511453",
     "https://raw.githubusercontent.com/DevTheo/deno-esprima/v4.0.1pre2/src/token.ts": "aed9019dc71759c3489522c2e1ebb623bcf8ba2ec9c5813b819b4ef4d27ca81c",
     "https://raw.githubusercontent.com/DevTheo/deno-esprima/v4.0.1pre2/src/tokenizer.ts": "b4ef218b4778680529eb1f200a331945f1f04830b0fcb1cbe64fe5619eb3541f",
-    "https://raw.githubusercontent.com/DevTheo/deno-esprima/v4.0.1pre2/src/xhtml-entities.ts": "9b208da6ee8015de92ee0a88506804f4762d71d798811a90e21ddd6380edb3d1"
+    "https://raw.githubusercontent.com/DevTheo/deno-esprima/v4.0.1pre2/src/xhtml-entities.ts": "9b208da6ee8015de92ee0a88506804f4762d71d798811a90e21ddd6380edb3d1",
+    "https://raw.githubusercontent.com/DevTheo/deno-trastpiler/v1.0.4pre1/src/deepmerge/mod.ts": "051604318cbf76fd0c2b96f9f4397df2d4f4abeaeb97c6ef4dfd43b94fb140c8",
+    "https://raw.githubusercontent.com/DevTheo/deno-trastpiler/v1.0.4pre1/src/is-mergeable-object/mod.ts": "d0ee57c7dd8e12c092de5ac7305d03f3acbc3708bc2812303bd1bad401e8a1ce",
+    "https://raw.githubusercontent.com/DevTheo/deno-trastpiler/v1.0.4pre1/src/mod.ts": "5afb40623e803e4713539145be08b47f7b486e5f94141ff432a34663f232781b",
+    "https://raw.githubusercontent.com/DevTheo/deno-trastpiler/v1.0.4pre1/src/scope.ts": "eb0d0c6c2729d827f448979784aae25ab309161d293f2e3e1ecec608871022df"
   }
 }
